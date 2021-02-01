@@ -1,0 +1,22 @@
+body {
+    background: url("images/Hotel-Management.jpg");
+    
+/*    opacity: 0.2;*/
+}
+
+.para {
+    background-color: #ff6347;
+    border: 5px solid blue;
+/*    opacity: 0.3;*/
+/*    outline: 2px solid white;*/
+    
+}
+
+.color {
+    color: rgb(171,180,185);
+}
+
+img {
+    opacity: 0.7;
+/*    background-position: right top;*/
+}
